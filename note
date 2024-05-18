@@ -1,0 +1,4 @@
+python tortoise_tts.py --preset ultra_fast
+python tortoise_tts.py --preset ultra_fast -o hello.wav "replace text"
+
+python -m streamlit run scripts/app.py  

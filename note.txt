@@ -1,0 +1,42 @@
+python tortoise_tts.py --preset ultra_fast -v nguyen_ngoc_ngan "có một cô gái mặc áo trắng xõa tóc dài đang nhìn anh ấy"
+khi chích tuyệt đối không được tiêm vô mạch máu tránh tiêm vô hạch bạch huyết vì có thể gây ra phản ứng phụ khác như sưng viêm chỗ chích
+
+
+
+python tortoise_tts.py --preset ultra_fast "Thị trường chứng khoán hôm nay biến động mạnh, nhiều mã cổ phiếu giảm sâu."
+
+
+Từ nhiều tháng nay, cứ buổi tối người dân xóm Bãi, thôn Vân Hội lại cắt cử nhau đi tuần dọc đường đê ven sông để xua đuổi tàu hút cát, bảo vệ những ngôi nhà.
+
+Trời hôm nay thật đẹp.
+Ngày mai tôi sẽ đi dạo cùng bạn bè.
+Thành công đến từ sự nỗ lực và kiên trì không ngừng nghỉ.
+
+Báo Thanh Niên là một tờ nhật báo Việt Nam có trụ sở tại Thành phố Hồ Chí Minh.
+
+Trong hoạn nạn, cộng đồng người Việt đã chung tay quyên góp, ủng hộ chia sẻ khó khăn với bà con đồng hương. 
+Dữ liệu ảnh từ vệ tinh sẽ được khai thác để giám sát các nguồn phát thải gây ô nhiễm sông Bắc Hưng Hải
+Trước thực trạng trên, Thủ tướng yêu cầu Bộ Y tế tăng cường truyền thông về tác hại thuốc lá điện tử
+Đọc sách không chỉ giúp mở rộng kiến thức mà còn nuôi dưỡng tâm hồn và phát triển tư duy.
+Thị trường chứng khoán hôm nay biến động mạnh, nhiều mã cổ phiếu giảm sâu.
+Dù không bị hủy đơn hàng vì chỉ có một sản phẩm bị tuồn ra ngoài và đã được thu hồi, song sự việc ảnh hưởng uy tín công ty.
+
+Nếu cao tốc do nhà nước đầu tư thì trạm dừng nghỉ được đầu tư cùng theo hình thức đầu tư công, hoặc lựa chọn nhà đầu tư đấu thầu theo quy định.
+
+Trên dọc tuyến cao tốc lắp đặt các thiết bị công nghệ để thu thập thông tin giao thông hoặc cung cấp thông tin cho người tham gia
+
+Ga ngầm Bến Thành, quận 1 có quy mô lớn, hiện đại nhất tuyến Metro số 1, gồm 4 tầng, hiện đã hoàn thiện cơ bản, chờ khai thác thương mại.
+
+Điểm nhấn nổi bật của nhà ga là giếng trời cao 6 m, đường kính 21,6 m, thiết kế hình hoa sen.
+
+Đối với người lao động, việc đưa gấu bông ra ngoài xét về giá trị tiền không nhiều nhưng lại gây thiệt hại khá lớn
+
+Đối tác hủy đơn hàng, thiệt hại tiền bạc, uy tín bị ảnh hưởng là những vấn đề nhà máy sản xuất gặp phải khi sản phẩm bị tuồn ra ngoài.
+
+Theo thông lệ, hàng năm cứ đến ngày Rằm tháng tư, hầu hết nước có Phật giáo và các phật tử long trọng tổ chức kỷ niệm ngày Đức Phật ra đời
+
+Thủ tướng Phạm Minh Chính yêu cầu các bộ ngành, địa phương áp dụng nhiều biện pháp tăng cường kiểm soát, ngăn chặn tác hại của thuốc lá điện tử, nung nóng.
+
+Trong năm 2023, GDP của Việt Nam dự kiến tăng trưởng 7% so với năm 2022, theo báo cáo của WB.
+
+python tortoise_tts.py --preset ultra_fast  --candidates 3 --seed 42 --device cuda --num_autoregressive_samples 5 --temperature 0.8  --length_penalty 1.0 --repetition_penalty 1.2 --top_p 0.9 --diffusion_iterations 250  --cond_free True --cond_free_k 1.0 --diffusion_temperature 0.5 --batch_size 8 "Thủ tướng Phạm Minh Chính yêu cầu các bộ ngành, địa phương áp dụng nhiều biện pháp tăng cường kiểm soát, ngăn chặn tác hại của thuốc lá điện tử, nung nóng."
